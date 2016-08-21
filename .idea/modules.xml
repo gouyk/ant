@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ant.iml" filepath="$PROJECT_DIR$/ant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-api/ant-api.iml" filepath="$PROJECT_DIR$/ant-api/ant-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-api/ant-api-ins/ant-api-ins.iml" filepath="$PROJECT_DIR$/ant-api/ant-api-ins/ant-api-ins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-api/ant-api-user/ant-api-user.iml" filepath="$PROJECT_DIR$/ant-api/ant-api-user/ant-api-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-common/ant-common.iml" filepath="$PROJECT_DIR$/ant-common/ant-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-core/ant-core.iml" filepath="$PROJECT_DIR$/ant-core/ant-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-rpc/ant-rpc.iml" filepath="$PROJECT_DIR$/ant-rpc/ant-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ant-test/ant-test.iml" filepath="$PROJECT_DIR$/ant-test/ant-test.iml" />
+    </modules>
+  </component>
+</project>
